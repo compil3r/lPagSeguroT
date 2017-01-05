@@ -1,5 +1,5 @@
 {
-    "name": "compil3r/lPagSeguroT",
+    "name": "compil3r/laravel-checkout-transparente",
     "description": "PagSeguro Checkout Transparente no Laravel 5.*",
     "type": "library",
     "license": "MIT",
